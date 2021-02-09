@@ -27,8 +27,8 @@ I'm *Daniel*, I present myself on social sites as *ton1czech* and I live in **Cz
 * <img src='./assets/HTML_CSS_JS.png' alt="HTML+CSS+JS Logo" height='13'> **HTML + CSS + JS**
 * <img src='https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png' alt="C++ Logo" height='13'> **C++**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton1czech&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton1czech&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 ---
 
