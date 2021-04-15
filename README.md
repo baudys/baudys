@@ -1,12 +1,12 @@
 # **Hi Programmers** 🙏
-I'm *Daniel*, I present myself on social sites as *ton1czech* and I live in **Czech republic**. I'm beginner programmer mostly focused on **Python** and **HTML + CSS + JS**. I also learn **C++** and little bit of **AI**.
+I'm *Daniel*, I present myself on social sites as *ton1czech* and I live in **Czech republic**. I'm beginner programmer mostly focused on **Python** and **HTML + CSS + JS**.
 
 ---
 
 <br />
 
 ## 💭 **ABOUT ME**
-- 🇨🇿 I am **16 years old** student from **Czech republic**
+- 🇨🇿 I am **17 years old** student from **Czech republic**
 - ♈ I am **Aries**
 - 💻 I love **programming**
 - 💪 I do **calisthenics**
@@ -31,7 +31,10 @@ I'm *Daniel*, I present myself on social sites as *ton1czech* and I live in **Cz
 ## 🔥 **SKILLS**
 * <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png' alt='Python Logo' height='13'> **Python**
 * <img src='./assets/HTML_CSS_JS.png' alt="HTML+CSS+JS Logo" height='13'> **HTML + CSS + JS**
+* <img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1' alt="React logo" height="13"> **React**
 * <img src='https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png' alt="C++ Logo" height='13'> **C++**
+* <img src='./assets/Cs.png' alt="C# Logo" height='13'> **C#**
+* <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2019%2F01%2FGolang_Logo.png&f=1&nofb=1' alt="Golang Logo" height='13'> **Golang**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&count_private=true&theme=dark)
 <br />
