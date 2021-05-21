@@ -72,9 +72,9 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 #### 🟠 **VERSION CONTROL**
 
+[<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>]()
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/ton1czech)
 [<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>](https://gitlab.com/ton1czech)
-[<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>]()
 
 <div style="margin: 0 0 15px 0"></div>
 
@@ -107,6 +107,13 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 [<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />]()
 [<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">]()
 [<img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white">]()
+
+<div style="margin: 0 0 15px 0"></div>
+
+#### 🎈 **OTHER**
+
+[<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>]()
+[<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />]()
 
 ---
 
