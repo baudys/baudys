@@ -121,5 +121,5 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 ## 📈 **STATS**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&langs_count=10&layout=compact&theme=dracula) <br />
-![](https://github-readme-stats.vercel.app/api/wakatime?username=ton1czech&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&theme=dracula&langs_count=10&layout=compact) <br />
+![](https://github-readme-stats.vercel.app/api/wakatime?username=ton1czech&theme=dracula&layout=compact)
