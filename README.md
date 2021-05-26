@@ -38,6 +38,11 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 [<img alt="Discord" src="https://img.shields.io/badge/ton1czech-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]()
 [<img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/ton1czech/)
+[<img alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>]()
+[<img alt="Origin" src="https://img.shields.io/badge/Origin-%23F56C2D.svg?style=for-the-badge&logo=Origin&logoColor=white"/>]()
+[<img alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"/>]()
+[<img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"/>]()
+[<img alt="PlayStation Network" src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white"/>]()
 
 #### 🎵 **MUSIC**
 
@@ -90,6 +95,7 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 #### ☁ **HOSTING**
 
 [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>]()
+[<img alt="Netlify" src="https://img.shields.io/badge/netlify-%233BACBC.svg?style=for-the-badge&logo=netlify&logoColor=white"/>]()
 
 <div style="margin: 0 0 15px 0"></div>
 
@@ -101,12 +107,12 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 #### 🔵 **OPERATING SYSTEMS**
 
-[<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />]()
 [<img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />]()
-[<img alt="Windows 10" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />]()
-[<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />]()
-[<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">]()
 [<img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white">]()
+[<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />]()
+[<img alt="Windows 10" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />]()
+[<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">]()
+[<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />]()
 
 <div style="margin: 0 0 15px 0"></div>
 
