@@ -9,12 +9,11 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 ## 💭 **ABOUT ME**
 
 - 🇨🇿 **Czech republic**
-- 👶 **17** years old student
-- ♈ **Aries**
-- 💻 **programming**
-- 💪 **calisthenics**
-- 🌑 **fantasy** books and movies
-- 🖥 **video games**
+- 👶 **31.03.2004**
+- 💻 **Programmer**
+- 💪 **Calisthenics athlete**
+- 🎮 **Gamer**
+- 📖 **Writer**
 
 ---
 
