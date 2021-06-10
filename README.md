@@ -26,7 +26,7 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 [<img alt="Twitter" src="https://img.shields.io/badge/ton1czech-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ton1czech)
 [<img alt="Youtube" src="https://img.shields.io/badge/ton1czech-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCblA_CnykG2Dw_6IMwZ9z9A)
 [<img alt="Instagram" src="https://img.shields.io/badge/ton1czech-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ton1czech)
-[<img alt="Twitch" src="https://img.shields.io/badge/ton1czech-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>](https://twitch.tv/ton1czech)
+[<img alt="Discord" src="https://img.shields.io/badge/ton1czech-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]()
 [<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://reddit.com/user/ton1czech)
 
 #### 💻 **PROGRAMMING**
@@ -35,9 +35,8 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 #### 🎮 **GAMING**
 
-[<img alt="Discord" src="https://img.shields.io/badge/ton1czech-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]()
 [<img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/ton1czech/)
-[<img alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>]()
+[<img alt="Epic Games" src="https://img.shields.io/badge/epic_games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>]()
 [<img alt="Origin" src="https://img.shields.io/badge/Origin-%23F56C2D.svg?style=for-the-badge&logo=Origin&logoColor=white"/>]()
 [<img alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"/>]()
 [<img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"/>]()
@@ -56,13 +55,9 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 #### ⌨ **PROGRAMMING LANGUAGES**
 
 [<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>]()
-[<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
-[<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>]()
 [<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>]()
 [<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>]()
-[<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>]()
-[<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>]()
-[<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>]()
+[<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
 
 <div style="margin: 0 0 15px 0"></div>
 
@@ -84,10 +79,17 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 #### 🎨 **DESIGN**
 
-[<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>]()
-[<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>]()
+[<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>]()
+[<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe_illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>]()
 [<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>]()
 [<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>]()
+
+<div style="margin: 0 0 15px 0"></div>
+
+#### ⌨ IDEs/Editors
+
+[<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>]()
+[<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>]()
 
 <div style="margin: 0 0 15px 0"></div>
 
@@ -119,10 +121,10 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 [<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>]()
 [<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />]()
+[<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>]()
+[<img alt="TOR" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />]()
 
 ---
-
-<br />
 
 ## 📈 **STATS**
 
