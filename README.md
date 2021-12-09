@@ -79,10 +79,11 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 #### 🎇 **COMMON**
 
+[<img alt="Gmail" src="https://img.shields.io/badge/@tonyasek007-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]()
 [<img alt="Twitter" src="https://img.shields.io/badge/@ton1czech-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ton1czech)
 [<img alt="Youtube" src="https://img.shields.io/badge/@ton1czech-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCblA_CnykG2Dw_6IMwZ9z9A)
 [<img alt="Instagram" src="https://img.shields.io/badge/@ton1czech-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ton1czech)
-[<img alt="Discord" src="https://img.shields.io/badge/@ton1czech-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]()
+[<img alt="Discord" src="https://img.shields.io/badge/@ton1czech--8028-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]()
 [<img alt="Reddit" src="https://img.shields.io/badge/@ton1czech-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://reddit.com/user/ton1czech)
 [<img alt="TikTok" src="https://img.shields.io/badge/@t0nczech-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />]()
 
@@ -108,5 +109,6 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 ## 📈 **STATS**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&theme=dracula&langs_count=10&layout=compact) <br />
-![](https://github-readme-stats.vercel.app/api/wakatime?username=ton1czech&theme=dracula&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&theme=dracula&langs_count=10&layout=compact) <br />
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ton1czech&theme=dracula&layout=compact) <br />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ton1czech&theme=dracula&date_format=j%20M%5B%20Y%5D)
