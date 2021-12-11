@@ -21,12 +21,13 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 ## 🔥 **SKILLS**
 
-#### ⌨ **PROGRAMMING LANGUAGES**
+#### ⌨ **LANGUAGES**
 
 [<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>](https://python.org/)
 [<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>](https://html.com/)
 [<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>](https://w3schools.com/Css/)
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://javascript.com/)
+[<img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>](https://www.json.org/json-en.html)
 
 <div style="margin: 0 0 15px 0"></div>
 
@@ -35,10 +36,15 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 [<img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />](https://nextjs.org/)
 [<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://reactjs.org/)
 [<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>](https://sass-lang.com/)
+[<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>](https://nodejs.org/)
+[<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>](https://yarnpkg.com/)
+[<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>](https://tailwindcss.com/)
+[<img alt="Chakra-UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>](https://chakra-ui.com/)
+[<img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>](https://fastapi.tiangolo.com/)
 
 <div style="margin: 0 0 15px 0"></div>
 
-#### ⌨ IDEs/Editors
+#### 🖥️ IDEs/Editors
 
 [<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://code.visualstudio.com/)
 [<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>](https://vim.org/)
@@ -50,6 +56,7 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 [<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />](https://vercel.com)
 [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://heroku.com)
 [<img alt="Netlify" src="https://img.shields.io/badge/netlify-%233BACBC.svg?style=for-the-badge&logo=netlify&logoColor=white"/>](https://netlify.com)
+[<img alt="Docker Hub" src="https://img.shields.io/badge/docker hub-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=0db7ed"/>](https://hub.docker.com/)
 
 <div style="margin: 0 0 15px 0"></div>
 
@@ -61,6 +68,14 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 [<img alt="Windows 10" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://microsoft.com/software-download/windows10ISO)
 [<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">](https://apple.com/ios/)
 [<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />](https://android.com/)
+
+<div style="margin: 0 0 15px 0"></div>
+
+#### 📝 **TERMINALS**
+
+[<img alt="Alacritty" src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" />](https://alacritty.org/)
+[<img alt="Fish" src="https://img.shields.io/badge/fish-4AAE46?style=for-the-badge&logo=fish&logoColor=white" />](https://fishshell.com/)
+[<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />](https://www.gnu.org/software/bash/)
 
 <div style="margin: 0 0 15px 0"></div>
 
@@ -83,15 +98,18 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 [<img alt="Twitter" src="https://img.shields.io/badge/@ton1czech-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ton1czech)
 [<img alt="Youtube" src="https://img.shields.io/badge/@ton1czech-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCblA_CnykG2Dw_6IMwZ9z9A)
 [<img alt="Instagram" src="https://img.shields.io/badge/@ton1czech-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ton1czech)
-[<img alt="Discord" src="https://img.shields.io/badge/@ton1czech--8028-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]()
+[<img alt="Discord" src="https://img.shields.io/badge/@ton1czech%238028-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]()
 [<img alt="Reddit" src="https://img.shields.io/badge/@ton1czech-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://reddit.com/user/ton1czech)
-[<img alt="TikTok" src="https://img.shields.io/badge/@t0nczech-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />]()
+[<img alt="TikTok" src="https://img.shields.io/badge/@t0nczech-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />](https://www.tiktok.com/@t0n1czech)
+[<img alt="Twitch" src="https://img.shields.io/badge/@ton1czech-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/ton1czech)
 
 #### 💻 **PROGRAMMING**
 
 [<img alt="Gitlab" src="https://img.shields.io/badge/@ton1czech-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab/ton1czech)
 [<img alt="Dribbble" src="https://img.shields.io/badge/@ton1czech-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />](https://dribbble.com/ton1czech)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/@ton1czech-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/15073347/ton1czech)
+[<img alt="Docker Hub" src="https://img.shields.io/badge/@ton1czech-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=0db7ed"/>](https://hub.docker.com/u/ton1czech)
+[<img alt="Kaggle" src="https://img.shields.io/badge/@ton1czech-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/ton1czech)
 
 #### 🎮 **GAMING**
 
@@ -104,6 +122,10 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 #### 🎵 **MUSIC**
 
 [<img alt="Spotify" src="https://img.shields.io/badge/@ton1czech-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/212btc3myry7hwb45aybf4efi)
+
+#### 💽 **OTHER**
+
+[<img alt="Goodreads" src="https://img.shields.io/badge/@ton1czech-372213?style=for-the-badge&logo=goodreads&logoColor=white" />](https://www.goodreads.com/user/show/94308602-ton1czech)
 
 ---
 
