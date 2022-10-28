@@ -1,6 +1,7 @@
 # **Hello Programmers.** 🙏
 
-I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm interested in **automation** in **Python** and creating **web applications** in **React**.
+I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_.  
+I'm interested in **automation** and **data visualisation** in **python** and creating **web applications** in **react**.
 
 ---
 
@@ -8,12 +9,10 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 ## 💭 **ABOUT ME**
 
-- 🇨🇿 **Czech republic**
-- 👶 **31.03.2004**
-- 💻 **Programmer**
-- 💪 **Calisthenics athlete**
-- 🎮 **Gamer**
-- 📖 **Writer**
+- 🇨🇿 **czech republic**
+- 💻 **programmer**
+- 💪 **calisthenics athlete**
+- 🏎️ **car enthusiast**
 
 ---
 
@@ -28,6 +27,7 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 [<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>](https://w3schools.com/Css/)
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://javascript.com/)
 [<img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>](https://www.json.org/json-en.html)
+[<img alt="GO" src="https://img.shields.io/badge/go-00A4CD?style=for-the-badge&logo=go&logoColor=white" />](https://go.dev/)
 
 <div style="margin: 0 0 15px 0"></div>
 
@@ -35,6 +35,7 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 [<img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />](https://nextjs.org/)
 [<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://reactjs.org/)
+[<img alt="Streamlit" src="https://img.shields.io/badge/streamlit-FF5D5D?style=for-the-badge&logo=streamlit&logoColor=white">](https://https://streamlit.io/)
 [<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>](https://sass-lang.com/)
 [<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>](https://nodejs.org/)
 [<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>](https://yarnpkg.com/)
@@ -96,6 +97,7 @@ I'm _Daniel_, also known as _ton1czech_ and I live in _Czech republic_. I'm inte
 
 [<img alt="Gmail" src="https://img.shields.io/badge/@tonyasek007-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]()
 [<img alt="Twitter" src="https://img.shields.io/badge/@ton1czech-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ton1czech)
+[<img alt="Showwcase" src="https://img.shields.io/badge/showwcase-171718?style=for-the-badge&logo=showwcase&logoColor=white"/>](https://www.showwcase.com/ton1czech)
 [<img alt="Youtube" src="https://img.shields.io/badge/@ton1czech-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCblA_CnykG2Dw_6IMwZ9z9A)
 [<img alt="Instagram" src="https://img.shields.io/badge/@ton1czech-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ton1czech)
 [<img alt="Discord" src="https://img.shields.io/badge/@ton1czech%238028-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]()
