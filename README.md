@@ -133,6 +133,6 @@ I'm interested in **automation** and **data visualisation** in **python** and cr
 
 ## 📈 **STATS**
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&langs_count=10&layout=compact) <br />
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ton1czech&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact) <br />
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ton1czech&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&date_format=j%20M%5B%20Y%5D)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&bg_color=1e1e2e&text_color=bfc6de&&title_color=cba6f7&langs_count=10&layout=compact) <br />
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ton1czech&bg_color=1e1e2e&text_color=bfc6de&title_color=cba6f7&layout=compact) <br />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ton1czech&background=1e1e2e&stroke=bac2de&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7&currStreakNum=cba6f7&sideLabels=bfc6de&sideNums=e1e6f7&dates=7e8496&date_format=j%20M%5B%20Y%5D)
