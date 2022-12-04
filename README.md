@@ -107,7 +107,7 @@ I'm interested in **automation** and **data visualisation** in **python** and cr
 
 #### 💻 **PROGRAMMING**
 
-[<img alt="Gitlab" src="https://img.shields.io/badge/@ton1czech-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab/ton1czech)
+[<img alt="Gitlab" src="https://img.shields.io/badge/@ton1czech-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/ton1czech)
 [<img alt="Dribbble" src="https://img.shields.io/badge/@ton1czech-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />](https://dribbble.com/ton1czech)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/@ton1czech-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/15073347/ton1czech)
 [<img alt="Docker Hub" src="https://img.shields.io/badge/@ton1czech-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=0db7ed"/>](https://hub.docker.com/u/ton1czech)
