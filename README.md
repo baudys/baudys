@@ -9,10 +9,7 @@ I'm interested in **automation** and **data visualisation** in **python** and cr
 
 ## 💭 **ABOUT ME**
 
-- 🇨🇿 **czech republic**
-- 💻 **programmer**
-- 💪 **calisthenics athlete**
-- 🏎️ **car enthusiast**
+I'm just a young kid who wants to make his dreams come true and I believe that programming 💻 will lead me to it one day. In 2015, I started designing and photography 📸. I first encountered Programming 🖥️ in 2019 and was immediately hooked. Since then I've managed to create dozens of projects, both for myself and for clients. Some of my favourites include the Planetopedia website (where I'm also a member in the programming division) and graphing inflation data in the Czech Republic. It is also worth mentioning that I have created several applications for the Pilsen Regional Office 👔, I have given educational lectures for children 🧑‍🏫 and I have successfully passed the Microsoft Office Specialist exams 📖 in PowerPoint 🟠 and Word 🔵 at the bett 2023 event in London. When I'm not sitting at the computer, I'm doing street workout 💪 or working on cars 🏎️.
 
 ---
 
@@ -90,46 +87,6 @@ I'm interested in **automation** and **data visualisation** in **python** and cr
 ---
 
 <br />
-
-## 💫 **SOCIAL LINKS**
-
-#### 🎇 **COMMON**
-
-[<img alt="Gmail" src="https://img.shields.io/badge/@tonyasek007-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]()
-[<img alt="Twitter" src="https://img.shields.io/badge/@ton1czech-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ton1czech)
-[<img alt="Showwcase" src="https://img.shields.io/badge/showwcase-171718?style=for-the-badge&logo=showwcase&logoColor=white"/>](https://www.showwcase.com/ton1czech)
-[<img alt="Youtube" src="https://img.shields.io/badge/@ton1czech-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCblA_CnykG2Dw_6IMwZ9z9A)
-[<img alt="Instagram" src="https://img.shields.io/badge/@ton1czech-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ton1czech)
-[<img alt="Discord" src="https://img.shields.io/badge/@ton1czech%238028-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>]()
-[<img alt="Reddit" src="https://img.shields.io/badge/@ton1czech-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://reddit.com/user/ton1czech)
-[<img alt="TikTok" src="https://img.shields.io/badge/@t0nczech-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />](https://www.tiktok.com/@t0n1czech)
-[<img alt="Twitch" src="https://img.shields.io/badge/@ton1czech-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/ton1czech)
-
-#### 💻 **PROGRAMMING**
-
-[<img alt="Gitlab" src="https://img.shields.io/badge/@ton1czech-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/ton1czech)
-[<img alt="Dribbble" src="https://img.shields.io/badge/@ton1czech-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />](https://dribbble.com/ton1czech)
-[<img alt="Stack Overflow" src="https://img.shields.io/badge/@ton1czech-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/15073347/ton1czech)
-[<img alt="Docker Hub" src="https://img.shields.io/badge/@ton1czech-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=0db7ed"/>](https://hub.docker.com/u/ton1czech)
-[<img alt="Kaggle" src="https://img.shields.io/badge/@ton1czech-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/ton1czech)
-
-#### 🎮 **GAMING**
-
-[<img alt="Steam" src="https://img.shields.io/badge/@ton1czech-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/ton1czech/)
-[<img alt="Epic Games" src="https://img.shields.io/badge/@ton1czech-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>]()
-[<img alt="Origin" src="https://img.shields.io/badge/@ton1czech-%23F56C2D.svg?style=for-the-badge&logo=Origin&logoColor=white"/>]()
-[<img alt="Ubisoft" src="https://img.shields.io/badge/@ton1czech-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"/>]()
-[<img alt="PlayStation Network" src="https://img.shields.io/badge/@ton1czech-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white"/>]()
-
-#### 🎵 **MUSIC**
-
-[<img alt="Spotify" src="https://img.shields.io/badge/@ton1czech-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/212btc3myry7hwb45aybf4efi)
-
-#### 💽 **OTHER**
-
-[<img alt="Goodreads" src="https://img.shields.io/badge/@ton1czech-372213?style=for-the-badge&logo=goodreads&logoColor=white" />](https://www.goodreads.com/user/show/94308602-ton1czech)
-
----
 
 ## 📈 **STATS**
 
