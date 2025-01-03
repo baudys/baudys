@@ -17,6 +17,6 @@ I'm just a young kid who wants to make his dreams come true and I believe that p
 
 ## 📈 **STATS**
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1czech&bg_color=1e1e2e&text_color=bfc6de&&title_color=cba6f7&langs_count=10&layout=compact) <br />
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ton1czech&bg_color=1e1e2e&text_color=bfc6de&title_color=cba6f7&layout=compact) <br />
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ton1czech&background=1e1e2e&stroke=bac2de&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7&currStreakNum=cba6f7&sideLabels=bfc6de&sideNums=e1e6f7&dates=7e8496&date_format=j%20M%5B%20Y%5D)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baudys&bg_color=1e1e2e&text_color=bfc6de&&title_color=cba6f7&langs_count=10&layout=compact) <br />
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=baudys&bg_color=1e1e2e&text_color=bfc6de&title_color=cba6f7&layout=compact) <br />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baudys&background=1e1e2e&stroke=bac2de&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7&currStreakNum=cba6f7&sideLabels=bfc6de&sideNums=e1e6f7&dates=7e8496&date_format=j%20M%5B%20Y%5D)
